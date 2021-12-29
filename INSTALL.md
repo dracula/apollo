@@ -1,17 +1,9 @@
-### [X](http://link-to-x.com)
-
-#### Install using Git
-
-If you are a git user, you can install the theme and keep up to date by cloning the repo:
-
-    git clone https://github.com/dracula/template.git
-
-#### Install manually
-
-Download using the [GitHub .zip download](https://github.com/dracula/template/archive/master.zip) option and unzip them.
+### [Apollo for Reddit](https://apolloapp.io)
 
 #### Activating theme
 
-1. Do this
-2. Then that
+1. Go to `Settings > Theme > App Color Theme`
+2. Select the Dracula theme
 3. Boom! It's working
+
+*Note: this theme is a built-in functionality available as part of the [Apollo Ultra](https://apolloapp.io/pro-ultra/) subscription.*
