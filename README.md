@@ -1,6 +1,6 @@
 # Dracula for [Apollo](https://apolloapp.io)
 
-> A dark theme for [Apollo](https://apolloapp.io).
+> A dark theme for [Apollo for Reddit](https://apolloapp.io).
 
 ![Screenshot](./screenshot.png)
 
